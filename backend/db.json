@@ -1,17 +1,19 @@
 {
-    "products":[{
-        "id": 1,
-        "name": "notebook 1", 
-        "price": "900"
+  "products": [
+    {
+      "id": 1,
+      "name": "notebook 1",
+      "price": "900"
     },
     {
-        "id": 2,
-        "name": "smartphone 14", 
-        "price": "800"  
+      "id": 2,
+      "name": "smartphone 14",
+      "price": "800"
     },
     {
-        "id": 3,
-        "name": "watch 3", 
-        "price": "500"  
-    }]
+      "id": 3,
+      "name": "watch 3",
+      "price": "500"
+    }
+  ]
 }
